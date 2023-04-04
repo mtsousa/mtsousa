@@ -44,3 +44,33 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" width="40"/>
 </p>
+
+## Projects
+
+### Stereo vision
+
+Tridimensional information recovery with [stereo vision](https://github.com/mtsousa/PVC-2021-1_Computer-Vision/tree/main/Stereo_vision)
+
+![](images/stereo_vision_results.jpg)
+
+### Object detection and segmentation
+
+[Object detection and segmentation](https://github.com/mtsousa/PVC-2021-1_Computer-Vision/tree/main/Image_segmentation) with Mask-RCNN
+
+![](images/image_seg.png)
+
+### Real-time fork detection
+
+[Fork detection](https://github.com/mtsousa/LARA-2022_Fork-Detection) with YOLOv7
+
+![](images/fork_mosaic.jpg)
+
+### Numerical simulation
+
+Newtonian fluid in a [lid-drive cavity](https://github.com/mtsousa/MNT-2021-1_Lid-Driven_Cavity) with internal obstacles
+
+|         **40x60, L = 20**      |         **40x20, L = 20**      |
+|:------------------------------:|:------------------------------:|
+| ![](images/Re400_b_stream.jpg) | ![](images/Re400_h_stream.jpg) |
+|         **20x40, L = 20**      |         **60x40, L = 20**      |
+| ![](images/Re400_d_stream.jpg) | ![](images/Re400_f_stream.jpg) |
