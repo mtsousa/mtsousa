@@ -1,7 +1,7 @@
 # Hi there, I'm Matheus Teixeira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe&pause=500&color=003153&multiline=true&width=435&height=150&lines=Mechatronics+Engineering+student+at+UnB;Interested+in%3A;-+Computer+vision;-+Machine+learning;-+Control+theory" alt="Typing SVG" /></a>
+    <img src="images/type_infos.svg"/>
 </p>
 
 ## Languages and frameworks
